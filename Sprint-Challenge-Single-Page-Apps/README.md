@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:  Switching between routes is often faster due to not refreshing the whole page.
+> Answer: Client-side routing offers control of the site URL and content without having to wait for a server to respond with content.
 
 ## Project Set Up
 
